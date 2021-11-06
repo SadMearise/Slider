@@ -1,0 +1,11 @@
+.slider-line {
+    display: flex;
+    transition: all ease 1s;
+}
+
+.slider {
+    border: 2px solid black;
+    max-width: 80%;
+    overflow: hidden;
+    margin: 20px auto;
+}
